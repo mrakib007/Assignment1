@@ -24,6 +24,12 @@ h1{
 .name{
     color: orange;
 }
+a{
+    text-decoration: none;
+    font-size: large;
+    color: dimgray;
+    font-weight: 700;
+}
 .link-btn{
     text-decoration: none;
     background-image: linear-gradient(lightSalmon,tomato);
@@ -121,6 +127,9 @@ h2{
 #inq{
     color: floralwhite;
    }
+   #fix{
+       margin: 0 auto;
+       }
 #inq1{
     padding-left: 10%;
     padding-top: 3%;
@@ -140,6 +149,7 @@ h2{
 
 .contact{
     margin-top: 45%;
+    margin-bottom: 5%;
     text-align: center;
 
 }
